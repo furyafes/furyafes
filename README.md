@@ -38,8 +38,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furyafes&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furyafes&theme=radical&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=furyafes&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furyafes&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 ---
 
