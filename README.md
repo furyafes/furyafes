@@ -53,14 +53,11 @@
 
 ## 📂 Çalışma Alanlarım
 
-- 🔹 Full-Stack Web Geliştirme  
-- 🔹 REST API & Mikroservisler  
-- 🔹 Veritabanı tasarımı & optimizasyon  
-- 🔹 Kod standardizasyonu ve test
+- 🔹 Full-Stack Web Geliştirme & REST API & Mikroservisler & Veritabanı tasarımı & optimizasyon & Kod standardizasyonu
 
 ## 📫 İletişim
 
 📌 LinkedIn: https://www.linkedin.com/in/[furyafes]  
-📧 Email: [yafesx@proton.me]
+📧 Email: yafesx@proton.me
 
 ---
