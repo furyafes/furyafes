@@ -27,21 +27,20 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
----
+
 
 ## 👋 Merhaba, ben Görkem,  
 🎯 **Full-Stack Yazılım Geliştirici** | 🧠 Backend & API Uzmanı | 🛠️ Yönetim Sistemleri
 
 İş odaklı, sürdürülebilir ve ölçeklenebilir çözümler üreten bir yazılım geliştiricisiyim. Temiz mimari ve etkili veritabanı tasarımına önem veririm.
 
----
+
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=furyafes&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furyafes&layout=compact&theme=radical" />
 </p>
----
 
 ## 🧠 Hakkımda
 
@@ -49,7 +48,7 @@
 - Yönetim paneli ve dashboard çözümleri tasarlıyorum  
 - Yazılım projelerinde **performans, ölçeklenebilirlik ve kod kalitesine** odaklanırım
 
----
+
 
 ## 📂 Çalışma Alanlarım
 
@@ -60,4 +59,3 @@
 📌 LinkedIn: https://www.linkedin.com/in/[furyafes]  
 📧 Email: yafesx@proton.me
 
----
