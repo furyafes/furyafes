@@ -12,14 +12,14 @@
 
 ---
 
-## 🧠 Profil
+## 🧠 Ne yapıyorum?
 
 Backend servisleri, kurumsal yönetim panelleri ve veritabanı odaklı uygulamalar geliştiriyorum.
 Temiz kod, modüler mimari ve gerçek dünya problemlerine mühendislik temelli çözümler üretmeye önem veririm.
 
 ---
 
-## 🧩 Teknoloji Yetkinlikleri
+## 🧩 Neler biliyorum?
 
 ### Programlama Dilleri
 
@@ -42,7 +42,7 @@ Prisma       ███████░░░ 70%
 
 ---
 
-## 📊 GitHub İstatistikleri
+## Neler yaptım?
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=furyafes&show_icons=true&theme=default" />
