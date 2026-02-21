@@ -48,11 +48,12 @@
 - Yönetim paneli ve dashboard çözümleri tasarlıyorum  
 - Yazılım projelerinde **performans, ölçeklenebilirlik ve kod kalitesine** odaklanırım
 
-
-
 ## 📂 Çalışma Alanlarım
 
-- 🔹 Full-Stack Web Geliştirme & REST API & Mikroservisler & Veritabanı tasarımı & optimizasyon & Kod standardizasyonu
+- 🔹 Web geliştirme & Gömülü sistemler oluşturma
+- 🔹 REST API & Mikroservisler
+- 🔹 Veritabanı tasarımı & optimizasyon
+- 🔹 Kod standardizasyonu
 
 ## 📫 İletişim
 
