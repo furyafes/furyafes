@@ -30,9 +30,9 @@
 
 
 ## 👋 Merhaba, ben Görkem,  
-🎯 **Full-Stack Yazılım Geliştirici** | 🧠 Backend & API Uzmanı | 🛠️ Yönetim Sistemleri
+- **Full-Stack Yazılım Geliştirici** | Backend & API | Yönetim Sistemleri
 
-İş odaklı, sürdürülebilir ve ölçeklenebilir çözümler üreten bir yazılım geliştiricisiyim. Temiz mimari ve etkili veritabanı tasarımına önem veririm.
+- İş odaklı, sürdürülebilir ve ölçeklenebilir çözümler üreten bir yazılım geliştiricisiyim.
 
 
 
@@ -57,6 +57,6 @@
 
 ## 📫 İletişim
 
-📌 LinkedIn: https://www.linkedin.com/in/[furyafes]  
+📌 LinkedIn: https://www.linkedin.com/in/furyafes
 📧 Email: yafesx@proton.me
 
