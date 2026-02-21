@@ -29,9 +29,8 @@
 
 
 
-## 👋 Merhaba, ben Görkem,  
-- **Full-Stack Yazılım Geliştirici** | Backend & API | Yönetim Sistemleri
-
+## Merhaba 👋  
+- Full-Stack Yazılım Geliştirici | Backend & API | Yönetim Sistemleri
 - İş odaklı, sürdürülebilir ve ölçeklenebilir çözümler üreten bir yazılım geliştiricisiyim.
 
 
