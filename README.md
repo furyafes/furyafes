@@ -1,1 +1,1 @@
-sadece ismimi biliyorsun.
+xd
